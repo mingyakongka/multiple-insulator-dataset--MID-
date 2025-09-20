@@ -1,0 +1,1 @@
+The MID dataset consists of insulator images captured by DJI M300RTK drones at different locations, including high-resolution images with a maximum pixel size and normal images with a minimum pixel size, which are used to test the impact of target displacement caused by image scaling on algorithm detection box positioning and generation.
