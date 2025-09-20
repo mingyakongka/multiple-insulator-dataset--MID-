@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>574.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\data\photo\574.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insultor3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>2766</ymin>
+			<xmax>2614</xmax>
+			<ymax>3688</ymax>
+		</bndbox>
+	</object>
+</annotation>

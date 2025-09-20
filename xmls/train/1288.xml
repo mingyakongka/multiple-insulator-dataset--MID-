@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>1288.jpg</filename>
+	<path>E:\insulator\photo\1288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insultor1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>581</ymin>
+			<xmax>932</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>
